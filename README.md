@@ -1,6 +1,7 @@
 
  [![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=Angular)](https://angular.io/) 
  [![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=JavaScript)](https://www.javascript.com/)
+ [![Typescript](https://img.shields.io/badge/Typescript-blue?style=flat&logo=TypeScript)](https://www.typescriptlang.org/)
  [![Nodejs](https://img.shields.io/badge/Nodejs-green?style=flat&logo=nodedotjs)](https://nodejs.org/es/)
 
 
