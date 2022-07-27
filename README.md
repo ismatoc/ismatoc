@@ -5,7 +5,7 @@
  <!-- [![linkedin](https://img.shields.io/badge/linkedIn-palomajurado-informational)](https://www.linkedin.com/in/palomajurado/)  -->
 
 <p align="center">
-  <img src="https://i.ibb.co/BgcFG1T/logo.png" alt="logo" border="0">
+  <img src="https://i.ibb.co/ZgKntDt/logo2.png" alt="logo2" border="0">
 </p>
 
 
