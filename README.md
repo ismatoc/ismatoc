@@ -3,7 +3,7 @@
  <!-- [![linkedin](https://img.shields.io/badge/linkedIn-palomajurado-informational)](https://www.linkedin.com/in/palomajurado/)  -->
 
 <p align="center">
-  <img src="https://ibb.co/64rL8dD">
+  <img src="https://i.ibb.co/BgcFG1T/logo.png" alt="logo" border="0">
 </p>
 
 
