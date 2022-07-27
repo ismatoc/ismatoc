@@ -1,8 +1,8 @@
-<!-- [![Website](https://img.shields.io/website?down_color=pink&down_message=cv&logo=paloma&up_color=ff69b4&up_message=profile&url=https%3A%2F%2Fpalomajurado.com)](https://palomajurado.com)-->
+
  [![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=Angular)](https://angular.io/) 
- [![Javascript](https://img.shields.io/badge/Javascript-100%25-yellow)](https://www.javascript.com/)
- [![Nodejs](https://img.shields.io/badge/Nodejs-100%25-green?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/es/)
- <!-- [![linkedin](https://img.shields.io/badge/linkedIn-palomajurado-informational)](https://www.linkedin.com/in/palomajurado/)  -->
+ [![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=JavaScript)](https://www.javascript.com/)
+ [![Nodejs](https://img.shields.io/badge/Nodejs-green?style=flat&logo=nodedotjs)](https://nodejs.org/es/)
+
 
 <p align="center">
   <img src="https://i.ibb.co/ZgKntDt/logo2.png" alt="logo2" border="0">
