@@ -3,11 +3,12 @@
  [![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=JavaScript)](https://www.javascript.com/)
  [![Typescript](https://img.shields.io/badge/Typescript-blue?style=flat&logo=TypeScript)](https://www.typescriptlang.org/)
  [![Nodejs](https://img.shields.io/badge/Nodejs-green?style=flat&logo=nodedotjs)](https://nodejs.org/es/)
+ [![Nodejs](https://img.shields.io/badge/Dart-3.5.2-blue?style=flat&logo=flutter&logoColor=white)](https://dart.dev/)
 
 
-<p align="center">
+<!--<p align="center">
   <img src="https://i.ibb.co/ZgKntDt/logo2.png" alt="logo2" border="0">
-</p>
+</p>-->
 
 
 ## LinkedIn 🎓
