@@ -4,6 +4,8 @@
  [![Typescript](https://img.shields.io/badge/Typescript-blue?style=flat&logo=TypeScript)](https://www.typescriptlang.org/)
  [![Nodejs](https://img.shields.io/badge/Nodejs-green?style=flat&logo=nodedotjs)](https://nodejs.org/es/)
  [![Nodejs](https://img.shields.io/badge/Dart-3.5.2-blue?style=flat&logo=flutter&logoColor=white)](https://dart.dev/)
+ [![Python](https://img.shields.io/badge/Dart-3.5.2-yellow?style=flat&logo=phyton&logoColor=white)](https://dart.dev/)
+ 
 
 
 <!--<p align="center">
